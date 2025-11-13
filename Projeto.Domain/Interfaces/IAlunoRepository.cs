@@ -13,9 +13,9 @@ namespace Projeto.Domain.Interfaces
         public void Atualizar(Aluno aluno);
         void Deletar(int idAluno);
         public List<Aluno> ObterTodos();
-        public Aluno ObterPorId(int idAluno);
-        public Aluno ObterPorCpf(string cpf);
-        public Aluno ObterPorMatricula(string matricula);
+        public Aluno? ObterPorId(int idAluno);
+        public Aluno? ObterPorCpf(string cpf);
+        public Aluno? ObterPorMatricula(string matricula);
 
     }
 }

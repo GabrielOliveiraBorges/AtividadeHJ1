@@ -9,7 +9,10 @@ namespace Projeto.Domain.Entidades
 {
     public class Aluno
     {
-
+        public Aluno()
+        {
+                
+        }
         public Aluno(int idAluno,string nome, string cpf, string matricula, string email)
         {
             this.idAluno = idAluno;
