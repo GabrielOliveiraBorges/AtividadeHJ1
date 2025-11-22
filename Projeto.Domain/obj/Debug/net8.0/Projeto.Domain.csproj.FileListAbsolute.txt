@@ -1,0 +1,12 @@
+C:\Faculdade\Projeto\Projeto.Domain\bin\Debug\net8.0\Projeto.Domain.deps.json
+C:\Faculdade\Projeto\Projeto.Domain\bin\Debug\net8.0\Projeto.Domain.dll
+C:\Faculdade\Projeto\Projeto.Domain\bin\Debug\net8.0\Projeto.Domain.pdb
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.AssemblyInfo.cs
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.sourcelink.json
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.dll
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\refint\Projeto.Domain.dll
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\Projeto.Domain.pdb
+C:\Faculdade\Projeto\Projeto.Domain\obj\Debug\net8.0\ref\Projeto.Domain.dll

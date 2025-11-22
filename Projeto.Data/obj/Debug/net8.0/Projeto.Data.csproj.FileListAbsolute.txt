@@ -1,0 +1,16 @@
+C:\Faculdade\Projeto\Projeto.Data\bin\Debug\net8.0\Projeto.Data.deps.json
+C:\Faculdade\Projeto\Projeto.Data\bin\Debug\net8.0\Projeto.Data.dll
+C:\Faculdade\Projeto\Projeto.Data\bin\Debug\net8.0\Projeto.Data.pdb
+C:\Faculdade\Projeto\Projeto.Data\bin\Debug\net8.0\Projeto.Domain.dll
+C:\Faculdade\Projeto\Projeto.Data\bin\Debug\net8.0\Projeto.Domain.pdb
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.csproj.AssemblyReference.cache
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.AssemblyInfoInputs.cache
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.AssemblyInfo.cs
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.sourcelink.json
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto..99F3A27C.Up2Date
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.dll
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\refint\Projeto.Data.dll
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\Projeto.Data.pdb
+C:\Faculdade\Projeto\Projeto.Data\obj\Debug\net8.0\ref\Projeto.Data.dll
