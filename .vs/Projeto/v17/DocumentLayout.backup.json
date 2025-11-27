@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faculdade\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FC3E86-2683-43E6-AD0B-21402BADC07F}|Projeto.Domain\\Projeto.Domain.csproj|c:\\faculdade\\projeto\\projeto.domain\\projeto.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7FC3E86-2683-43E6-AD0B-21402BADC07F}|Projeto.Domain\\Projeto.Domain.csproj|solutionrelative:projeto.domain\\projeto.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projeto.Domain",
+              "DocumentMoniker": "C:\\Faculdade\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj",
+              "RelativeDocumentMoniker": "Projeto.Domain\\Projeto.Domain.csproj",
+              "ToolTip": "C:\\Faculdade\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj",
+              "RelativeToolTip": "Projeto.Domain\\Projeto.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T00:43:52.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

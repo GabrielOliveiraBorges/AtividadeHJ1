@@ -21,6 +21,8 @@ builder.Services.AddScoped<IMatriculaRepository, MatriculaRepository>();
 builder.Services.AddScoped<IAlunoService, AlunoService>();
 builder.Services.AddScoped<ICursoService, CursoService>();
 builder.Services.AddScoped<IMatriculaService, MatriculaService>();
+builder.Services.AddSingleton<ProjetoPapaiNoel.Domain.Interfaces.ICartinhaRepository, ProjetoPapaiNoel.Data.Repositories.CartinhaRepository>();
+builder.Services.AddScoped<ProjetoPapaiNoel.Application.Services.CartinhaService>();
 
 
 var app = builder.Build();
